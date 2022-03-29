@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplayard_education=self.webpackChunkplayard_education||[]).push([[986],{4511:function(e){e.exports=JSON.parse('{"permalink":"/playard-education/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

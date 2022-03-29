@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplayard_education=self.webpackChunkplayard_education||[]).push([[998],{4610:function(a){a.exports=JSON.parse('{"allTagsPath":"/playard-education/blog/tags","slug":"/playard-education/blog/tags/facebook","name":"facebook","count":1,"permalink":"/playard-education/blog/tags/facebook"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplayard_education=self.webpackChunkplayard_education||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Greetings!","permalink":"/playard-education/blog/greetings"},{"title":"What is Playard ?","permalink":"/playard-education/blog/welcome"}]}')}}]);

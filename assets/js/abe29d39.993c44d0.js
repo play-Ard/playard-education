@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplayard_education=self.webpackChunkplayard_education||[]).push([[44],{6814:function(a){a.exports=JSON.parse('{"allTagsPath":"/playard-education/blog/tags","slug":"/playard-education/blog/tags/docusaurus","name":"docusaurus","count":1,"permalink":"/playard-education/blog/tags/docusaurus"}')}}]);

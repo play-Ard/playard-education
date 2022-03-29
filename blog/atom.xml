@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://play-Ard.github.io/playard-education/blog</id>
+    <title>Playard Education Blog</title>
+    <updated>2022-03-29T22:49:51.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://play-Ard.github.io/playard-education/blog"/>
+    <subtitle>Playard Education Blog</subtitle>
+    <icon>https://play-Ard.github.io/playard-education/img/Formal.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Greetings!]]></title>
+        <id>greetings</id>
+        <link href="https://play-Ard.github.io/playard-education/blog/greetings"/>
+        <updated>2022-03-29T22:49:51.000Z</updated>
+        <summary type="html"><![CDATA[This is the first blog  asdas]]></summary>
+        <content type="html"><![CDATA[<p>This is the first blog  asdas</p>]]></content>
+        <author>
+            <name>Erhan Namlı</name>
+            <uri>https://github.com/erhan-namli</uri>
+        </author>
+        <author>
+            <name>Siyabend Urun</name>
+            <uri>https://github.com/urunsiyabend</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Playard ?]]></title>
+        <id>welcome</id>
+        <link href="https://play-Ard.github.io/playard-education/blog/welcome"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[asdasd]]></summary>
+        <content type="html"><![CDATA[<p>asdasd</p>]]></content>
+        <author>
+            <name>Erhan Namlı</name>
+            <uri>https://github.com/erhan-namli</uri>
+        </author>
+        <author>
+            <name>Siyabend Urun</name>
+            <uri>https://github.com/urunsiyabend</uri>
+        </author>
+        <category label="facebook" term="facebook"/>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

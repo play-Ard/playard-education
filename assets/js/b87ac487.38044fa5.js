@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplayard_education=self.webpackChunkplayard_education||[]).push([[863],{6275:function(a){a.exports=JSON.parse('{"allTagsPath":"/playard-education/blog/tags","slug":"/playard-education/blog/tags/greetings","name":"greetings","count":1,"permalink":"/playard-education/blog/tags/greetings"}')}}]);
